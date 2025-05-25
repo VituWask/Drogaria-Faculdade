@@ -1,0 +1,10 @@
+# Java / Spring Boot
+/backend/target/
+/backend/.idea/
+/backend/.settings/
+/backend/.classpath
+/backend/.project
+
+# Node.js / React
+/frontend/node_modules/
+/frontend/build/

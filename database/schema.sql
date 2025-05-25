@@ -1,0 +1,7 @@
+CREATE DATABASE farmaciadb;
+SHOW DATABASES;
+USE farmaciadb;
+SHOW TABLES;
+SELECT * FROM venda;
+SELECT * FROM remedio;
+
